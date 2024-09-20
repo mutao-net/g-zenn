@@ -1,0 +1,7 @@
+{
+  "attachmentFolderPath": "images",
+  "newLinkFormat": "absolute",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "articles",
+  "promptDelete": false
+}
